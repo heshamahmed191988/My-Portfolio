@@ -1,7 +1,7 @@
 {
   "name": "Hesham Ahmed — Full-Stack .NET Engineer",
   "short_name": "Hesham Ahmed",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#F5F3EE",
   "theme_color": "#0E7356",

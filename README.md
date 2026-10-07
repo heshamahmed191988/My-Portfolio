@@ -1,7 +1,7 @@
-# heshamahmed191988.github.io
+# My-Portfolio
 
 Personal portfolio of **Hesham Ahmed Mohamed**, Full-Stack .NET Engineer.
-Live: https://heshamahmed191988.github.io · Arabic: https://heshamahmed191988.github.io/?lang=ar
+Live: https://heshamahmed191988.github.io/My-Portfolio/ · Arabic: https://heshamahmed191988.github.io/My-Portfolio/?lang=ar
 
 Plain HTML, CSS and vanilla JavaScript. No framework, no build step, served directly by GitHub Pages.
 
